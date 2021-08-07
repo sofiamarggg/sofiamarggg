@@ -1,0 +1,3 @@
+- 👋 Hey there! I’m Margrette Sofia, a 16-year-old student who's interested in anything tech.
+- 🌱 I’m currently learning RWD as well as UI/UX Design.
+- 📫 You can email me @margrettesofia@gmail.com
