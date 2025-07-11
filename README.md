@@ -1,7 +1,9 @@
-# Hey there! 🧋
+# Hey there! 👋🏼
 
-I'm Marg, a Computer Science student from the Philippines.
+I'm Margrette, but you can call me Marg. I'm a **2nd Year Computer Science** student from the Philippines.
 
-I'm interested Data Science and Analysis, and I'm currently learning the related technologies and tools.
+I'm interested in **Data Science and Analysis**. I'm learning their related technologies and tools, such as Python and Jupyter Notebook during my free time.
 
-Outside of studying, I stay updated on tech trends through social media. I also enjoy playing games like Minecraft and Roblox.
+## Contact me 💌
+
+[Email Me](mailto:margrettesofia@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sofia-marggg/) | [Discord](https://discord.com/users/469032506511982602)
