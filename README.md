@@ -1,8 +1,8 @@
-# Hey there! 👋🏼
+# Hey there! 👋
 
 I'm Margrette, but you can call me Marg. I'm a **2nd Year Computer Science** student from the Philippines.
 
-I'm interested in **Data Science and Analysis**. I'm learning their related technologies and tools, such as Python and Jupyter Notebook during my free time.
+I'm interested in **Data Science and Analysis**. I'm learning their related technologies and tools, such as Python, SQL, and Jupyter Notebook during my free time.
 
 ## Contact me 💌
 
