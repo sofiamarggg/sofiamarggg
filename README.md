@@ -1,8 +1,13 @@
-# Hey there! 👋
+# Hey there! I'm Margrette, but you can call me Marg 👋
 
-I'm Margrette, but you can call me Marg. I'm a **2nd Year Computer Science** student from the Philippines.
+2nd Year CS Student | Aspiring Data Scientist @ MLOps Engineer
 
-I'm interested in **Data Science and Analysis**. I'm learning their related technologies and tools, such as Python, SQL, and Jupyter Notebook during my free time.
+## About Me 🌠
+I aim to turn raw data and build algorithms that servepeople and guide strategic choices. Currently, I'm focused on learning ETL and deploying models.
+
+## What I Use 📁
+**Languages**: Python (Pandas, NumPy, SQLAlchemy), SQL, JavaScript <br>
+**DevOps/Tools**: Docker, Kubernetes, Jupyter Notebook
 
 ## Contact me 💌
 
