@@ -1,4 +1,4 @@
-# Hey there! I'm Margrette, but you can call me Marg 👋
+# Hey there! 👋
 
 2nd Year CS Student | Aspiring Data Scientist @ MLOps Engineer
 
