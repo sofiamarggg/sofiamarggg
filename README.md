@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-2nd Year CS Student | Aspiring Data Scientist @ MLOps Engineer
+3rd Year CS Student | Aspiring Data Scientist @ MLOps Engineer
 
 ## About Me 🌠
 I aim to turn raw data and build algorithms that servepeople and guide strategic choices. Currently, I'm focused on learning ETL and deploying models.
